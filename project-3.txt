@@ -1,0 +1,7 @@
+OK-weather datasini cekip ekle hum,temp,windspeed - api key sorunu historical datada
+OK-sonra timestamp olayina bak stefaninkinden
+NONEED-groupby yap houra gore
+holiday datasina da bakmak gerek
+weekday number
+working day or not
+season?
